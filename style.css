@@ -1,0 +1,17 @@
+.row{
+    border: 1px dashed black;
+    height: 40px;
+    margin: 50px auto;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.aqua{
+    background-color: aqua;
+}
